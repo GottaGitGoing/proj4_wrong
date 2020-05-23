@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/a.out.app.dir/app/BooEdit.cpp.o"
   "CMakeFiles/a.out.app.dir/app/BooEditLog.cpp.o"
+  "CMakeFiles/a.out.app.dir/app/CursorRight.cpp.o"
   "CMakeFiles/a.out.app.dir/app/EditorModel.cpp.o"
   "CMakeFiles/a.out.app.dir/app/InteractionProcessor.cpp.o"
   "CMakeFiles/a.out.app.dir/app/KeypressInteractionReader.cpp.o"

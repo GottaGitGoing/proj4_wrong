@@ -36,6 +36,18 @@ string
 EditorModel.hpp
 /home/ics45c/projects/proj4/app/EditorModel.hpp
 
+/home/ics45c/projects/proj4/app/CursorRight.cpp
+Command.hpp
+/home/ics45c/projects/proj4/app/Command.hpp
+CursorRight.hpp
+/home/ics45c/projects/proj4/app/CursorRight.hpp
+
+/home/ics45c/projects/proj4/app/CursorRight.hpp
+Keypress.hpp
+/home/ics45c/projects/proj4/app/Keypress.hpp
+Command.hpp
+/home/ics45c/projects/proj4/app/Command.hpp
+
 /home/ics45c/projects/proj4/app/EditorException.hpp
 string
 -
@@ -87,8 +99,6 @@ Interaction.hpp
 /home/ics45c/projects/proj4/app/KeypressInteractionReader.cpp
 KeypressInteractionReader.hpp
 /home/ics45c/projects/proj4/app/KeypressInteractionReader.hpp
-iostream
--
 
 /home/ics45c/projects/proj4/app/KeypressInteractionReader.hpp
 InteractionReader.hpp

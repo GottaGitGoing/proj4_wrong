@@ -20,9 +20,9 @@ int EditorModel::cursorLine() const
 }
 
 
-int EditorModel::cursorColumn() const
+int EditorModel::cursorColumn() const 
 {
-    return 1;
+    return getCursorColumn();
 }
 
 
@@ -55,3 +55,22 @@ void EditorModel::clearErrorMessage()
 {
 }
 
+// ------------- New Helper Methods ---------------
+
+int EditorModel::getCursorColumn() const
+{
+    return cursor_col;
+}
+
+void EditorModel::moveCursor(char direction)
+{
+    if (direction == 'R')
+    {
+        cursor_col +=1;
+    }
+    else if (direction == 'L')
+    {
+        cursor_col -=1;
+    }
+    
+}

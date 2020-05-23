@@ -76,10 +76,21 @@ public:
     // Clears the error message that should be displayed currently.
     void clearErrorMessage();
 
+    // Moves the Cursor Column "L" or "R"
+    void moveCursor(char direction);
+
+    // gets the current cursor col position
+    int getCursorColumn() const;
+
 private:
     // Write declarations for any private member variables here.
     // Additionally, you can add any private member functions you'd like.
+    
+    // where cursor column is currently at
+    int cursor_col = 1;
+
 };
+
 
 
 

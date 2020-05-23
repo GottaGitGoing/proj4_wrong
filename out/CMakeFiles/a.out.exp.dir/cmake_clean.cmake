@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/a.out.exp.dir/exp/expmain.cpp.o"
   "CMakeFiles/a.out.exp.dir/app/BooEdit.cpp.o"
   "CMakeFiles/a.out.exp.dir/app/BooEditLog.cpp.o"
+  "CMakeFiles/a.out.exp.dir/app/CursorRight.cpp.o"
   "CMakeFiles/a.out.exp.dir/app/EditorModel.cpp.o"
   "CMakeFiles/a.out.exp.dir/app/InteractionProcessor.cpp.o"
   "CMakeFiles/a.out.exp.dir/app/KeypressInteractionReader.cpp.o"

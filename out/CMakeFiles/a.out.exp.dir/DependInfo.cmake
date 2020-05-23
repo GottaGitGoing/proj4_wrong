@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/ics45c/projects/proj4/app/BooEdit.cpp" "/home/ics45c/projects/proj4/out/CMakeFiles/a.out.exp.dir/app/BooEdit.cpp.o"
   "/home/ics45c/projects/proj4/app/BooEditLog.cpp" "/home/ics45c/projects/proj4/out/CMakeFiles/a.out.exp.dir/app/BooEditLog.cpp.o"
+  "/home/ics45c/projects/proj4/app/CursorRight.cpp" "/home/ics45c/projects/proj4/out/CMakeFiles/a.out.exp.dir/app/CursorRight.cpp.o"
   "/home/ics45c/projects/proj4/app/EditorModel.cpp" "/home/ics45c/projects/proj4/out/CMakeFiles/a.out.exp.dir/app/EditorModel.cpp.o"
   "/home/ics45c/projects/proj4/app/InteractionProcessor.cpp" "/home/ics45c/projects/proj4/out/CMakeFiles/a.out.exp.dir/app/InteractionProcessor.cpp.o"
   "/home/ics45c/projects/proj4/app/KeypressInteractionReader.cpp" "/home/ics45c/projects/proj4/out/CMakeFiles/a.out.exp.dir/app/KeypressInteractionReader.cpp.o"

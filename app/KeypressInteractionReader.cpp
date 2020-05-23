@@ -8,7 +8,7 @@
 // YOU WILL NEED TO IMPLEMENT SOME THINGS HERE
 
 #include "KeypressInteractionReader.hpp"
-#include <iostream>
+
 
 // You will need to update this member function to watch for the right
 // keypresses and build the right kinds of Interactions as a result.

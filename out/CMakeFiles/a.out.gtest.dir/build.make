@@ -201,9 +201,33 @@ CMakeFiles/a.out.gtest.dir/app/BooEditLog.cpp.o.provides: CMakeFiles/a.out.gtest
 CMakeFiles/a.out.gtest.dir/app/BooEditLog.cpp.o.provides.build: CMakeFiles/a.out.gtest.dir/app/BooEditLog.cpp.o
 
 
+CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o: CMakeFiles/a.out.gtest.dir/flags.make
+CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o: ../app/CursorRight.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ics45c/projects/proj4/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o"
+	/usr/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o -c /home/ics45c/projects/proj4/app/CursorRight.cpp
+
+CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ics45c/projects/proj4/app/CursorRight.cpp > CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.i
+
+CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ics45c/projects/proj4/app/CursorRight.cpp -o CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.s
+
+CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o.requires:
+
+.PHONY : CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o.requires
+
+CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o.provides: CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o.requires
+	$(MAKE) -f CMakeFiles/a.out.gtest.dir/build.make CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o.provides.build
+.PHONY : CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o.provides
+
+CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o.provides.build: CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o
+
+
 CMakeFiles/a.out.gtest.dir/app/EditorModel.cpp.o: CMakeFiles/a.out.gtest.dir/flags.make
 CMakeFiles/a.out.gtest.dir/app/EditorModel.cpp.o: ../app/EditorModel.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ics45c/projects/proj4/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/a.out.gtest.dir/app/EditorModel.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ics45c/projects/proj4/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/a.out.gtest.dir/app/EditorModel.cpp.o"
 	/usr/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.gtest.dir/app/EditorModel.cpp.o -c /home/ics45c/projects/proj4/app/EditorModel.cpp
 
 CMakeFiles/a.out.gtest.dir/app/EditorModel.cpp.i: cmake_force
@@ -227,7 +251,7 @@ CMakeFiles/a.out.gtest.dir/app/EditorModel.cpp.o.provides.build: CMakeFiles/a.ou
 
 CMakeFiles/a.out.gtest.dir/app/InteractionProcessor.cpp.o: CMakeFiles/a.out.gtest.dir/flags.make
 CMakeFiles/a.out.gtest.dir/app/InteractionProcessor.cpp.o: ../app/InteractionProcessor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ics45c/projects/proj4/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/a.out.gtest.dir/app/InteractionProcessor.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ics45c/projects/proj4/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/a.out.gtest.dir/app/InteractionProcessor.cpp.o"
 	/usr/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.gtest.dir/app/InteractionProcessor.cpp.o -c /home/ics45c/projects/proj4/app/InteractionProcessor.cpp
 
 CMakeFiles/a.out.gtest.dir/app/InteractionProcessor.cpp.i: cmake_force
@@ -251,7 +275,7 @@ CMakeFiles/a.out.gtest.dir/app/InteractionProcessor.cpp.o.provides.build: CMakeF
 
 CMakeFiles/a.out.gtest.dir/app/KeypressInteractionReader.cpp.o: CMakeFiles/a.out.gtest.dir/flags.make
 CMakeFiles/a.out.gtest.dir/app/KeypressInteractionReader.cpp.o: ../app/KeypressInteractionReader.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ics45c/projects/proj4/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/a.out.gtest.dir/app/KeypressInteractionReader.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ics45c/projects/proj4/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/a.out.gtest.dir/app/KeypressInteractionReader.cpp.o"
 	/usr/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.gtest.dir/app/KeypressInteractionReader.cpp.o -c /home/ics45c/projects/proj4/app/KeypressInteractionReader.cpp
 
 CMakeFiles/a.out.gtest.dir/app/KeypressInteractionReader.cpp.i: cmake_force
@@ -275,7 +299,7 @@ CMakeFiles/a.out.gtest.dir/app/KeypressInteractionReader.cpp.o.provides.build: C
 
 CMakeFiles/a.out.gtest.dir/app/NcursesEditorView.cpp.o: CMakeFiles/a.out.gtest.dir/flags.make
 CMakeFiles/a.out.gtest.dir/app/NcursesEditorView.cpp.o: ../app/NcursesEditorView.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ics45c/projects/proj4/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/a.out.gtest.dir/app/NcursesEditorView.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ics45c/projects/proj4/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/a.out.gtest.dir/app/NcursesEditorView.cpp.o"
 	/usr/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.gtest.dir/app/NcursesEditorView.cpp.o -c /home/ics45c/projects/proj4/app/NcursesEditorView.cpp
 
 CMakeFiles/a.out.gtest.dir/app/NcursesEditorView.cpp.i: cmake_force
@@ -299,7 +323,7 @@ CMakeFiles/a.out.gtest.dir/app/NcursesEditorView.cpp.o.provides.build: CMakeFile
 
 CMakeFiles/a.out.gtest.dir/app/NcursesKeypressReader.cpp.o: CMakeFiles/a.out.gtest.dir/flags.make
 CMakeFiles/a.out.gtest.dir/app/NcursesKeypressReader.cpp.o: ../app/NcursesKeypressReader.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ics45c/projects/proj4/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/a.out.gtest.dir/app/NcursesKeypressReader.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ics45c/projects/proj4/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/a.out.gtest.dir/app/NcursesKeypressReader.cpp.o"
 	/usr/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/a.out.gtest.dir/app/NcursesKeypressReader.cpp.o -c /home/ics45c/projects/proj4/app/NcursesKeypressReader.cpp
 
 CMakeFiles/a.out.gtest.dir/app/NcursesKeypressReader.cpp.i: cmake_force
@@ -329,6 +353,7 @@ a_out_gtest_OBJECTS = \
 "CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o" \
 "CMakeFiles/a.out.gtest.dir/app/BooEdit.cpp.o" \
 "CMakeFiles/a.out.gtest.dir/app/BooEditLog.cpp.o" \
+"CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o" \
 "CMakeFiles/a.out.gtest.dir/app/EditorModel.cpp.o" \
 "CMakeFiles/a.out.gtest.dir/app/InteractionProcessor.cpp.o" \
 "CMakeFiles/a.out.gtest.dir/app/KeypressInteractionReader.cpp.o" \
@@ -344,6 +369,7 @@ bin/a.out.gtest: CMakeFiles/a.out.gtest.dir/gtest/MockKeypressReader.cpp.o
 bin/a.out.gtest: CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o
 bin/a.out.gtest: CMakeFiles/a.out.gtest.dir/app/BooEdit.cpp.o
 bin/a.out.gtest: CMakeFiles/a.out.gtest.dir/app/BooEditLog.cpp.o
+bin/a.out.gtest: CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o
 bin/a.out.gtest: CMakeFiles/a.out.gtest.dir/app/EditorModel.cpp.o
 bin/a.out.gtest: CMakeFiles/a.out.gtest.dir/app/InteractionProcessor.cpp.o
 bin/a.out.gtest: CMakeFiles/a.out.gtest.dir/app/KeypressInteractionReader.cpp.o
@@ -351,7 +377,7 @@ bin/a.out.gtest: CMakeFiles/a.out.gtest.dir/app/NcursesEditorView.cpp.o
 bin/a.out.gtest: CMakeFiles/a.out.gtest.dir/app/NcursesKeypressReader.cpp.o
 bin/a.out.gtest: CMakeFiles/a.out.gtest.dir/build.make
 bin/a.out.gtest: CMakeFiles/a.out.gtest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ics45c/projects/proj4/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable bin/a.out.gtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ics45c/projects/proj4/out/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable bin/a.out.gtest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/a.out.gtest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -365,6 +391,7 @@ CMakeFiles/a.out.gtest.dir/requires: CMakeFiles/a.out.gtest.dir/gtest/MockKeypre
 CMakeFiles/a.out.gtest.dir/requires: CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o.requires
 CMakeFiles/a.out.gtest.dir/requires: CMakeFiles/a.out.gtest.dir/app/BooEdit.cpp.o.requires
 CMakeFiles/a.out.gtest.dir/requires: CMakeFiles/a.out.gtest.dir/app/BooEditLog.cpp.o.requires
+CMakeFiles/a.out.gtest.dir/requires: CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o.requires
 CMakeFiles/a.out.gtest.dir/requires: CMakeFiles/a.out.gtest.dir/app/EditorModel.cpp.o.requires
 CMakeFiles/a.out.gtest.dir/requires: CMakeFiles/a.out.gtest.dir/app/InteractionProcessor.cpp.o.requires
 CMakeFiles/a.out.gtest.dir/requires: CMakeFiles/a.out.gtest.dir/app/KeypressInteractionReader.cpp.o.requires

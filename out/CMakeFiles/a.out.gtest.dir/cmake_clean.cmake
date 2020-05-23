@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o"
   "CMakeFiles/a.out.gtest.dir/app/BooEdit.cpp.o"
   "CMakeFiles/a.out.gtest.dir/app/BooEditLog.cpp.o"
+  "CMakeFiles/a.out.gtest.dir/app/CursorRight.cpp.o"
   "CMakeFiles/a.out.gtest.dir/app/EditorModel.cpp.o"
   "CMakeFiles/a.out.gtest.dir/app/InteractionProcessor.cpp.o"
   "CMakeFiles/a.out.gtest.dir/app/KeypressInteractionReader.cpp.o"

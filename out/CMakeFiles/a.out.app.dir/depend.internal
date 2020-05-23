@@ -14,6 +14,12 @@ CMakeFiles/a.out.app.dir/app/BooEdit.cpp.o
 CMakeFiles/a.out.app.dir/app/BooEditLog.cpp.o
  /home/ics45c/projects/proj4/app/BooEditLog.cpp
  /home/ics45c/projects/proj4/app/BooEditLog.hpp
+CMakeFiles/a.out.app.dir/app/CursorRight.cpp.o
+ /home/ics45c/projects/proj4/app/Command.hpp
+ /home/ics45c/projects/proj4/app/CursorRight.cpp
+ /home/ics45c/projects/proj4/app/CursorRight.hpp
+ /home/ics45c/projects/proj4/app/EditorModel.hpp
+ /home/ics45c/projects/proj4/app/Keypress.hpp
 CMakeFiles/a.out.app.dir/app/EditorModel.cpp.o
  /home/ics45c/projects/proj4/app/EditorException.hpp
  /home/ics45c/projects/proj4/app/EditorModel.cpp

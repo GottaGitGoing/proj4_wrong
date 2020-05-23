@@ -14,6 +14,12 @@ CMakeFiles/a.out.app.dir/app/BooEdit.cpp.o: ../app/InteractionType.hpp
 CMakeFiles/a.out.app.dir/app/BooEditLog.cpp.o: ../app/BooEditLog.cpp
 CMakeFiles/a.out.app.dir/app/BooEditLog.cpp.o: ../app/BooEditLog.hpp
 
+CMakeFiles/a.out.app.dir/app/CursorRight.cpp.o: ../app/Command.hpp
+CMakeFiles/a.out.app.dir/app/CursorRight.cpp.o: ../app/CursorRight.cpp
+CMakeFiles/a.out.app.dir/app/CursorRight.cpp.o: ../app/CursorRight.hpp
+CMakeFiles/a.out.app.dir/app/CursorRight.cpp.o: ../app/EditorModel.hpp
+CMakeFiles/a.out.app.dir/app/CursorRight.cpp.o: ../app/Keypress.hpp
+
 CMakeFiles/a.out.app.dir/app/EditorModel.cpp.o: ../app/EditorException.hpp
 CMakeFiles/a.out.app.dir/app/EditorModel.cpp.o: ../app/EditorModel.cpp
 CMakeFiles/a.out.app.dir/app/EditorModel.cpp.o: ../app/EditorModel.hpp
