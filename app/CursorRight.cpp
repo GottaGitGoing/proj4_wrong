@@ -3,10 +3,15 @@
 #include "Command.hpp"
 #include "CursorRight.hpp"
 
+CursorRight::CursorRight();
 
 void CursorRight::execute(EditorModel& model)
 {
 
-    int lineNum = model.cursorColumn();
-    model.line(lineNum);
+    model.moveCursor('R');
+}
+
+void CursorRight::undo(EditorModel& model)
+{
+    return;
 }

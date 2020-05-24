@@ -8,8 +8,10 @@
 
 class CursorRight : public Command
 {
-
-    void execute(EditorModel& model) override;
+public:
+    CursorRight();
+    void execute(EditorModel& model) ;
+    void undo(EditorModel& model);
 };
 
 #endif

@@ -41,6 +41,7 @@
 #define COMMAND_HPP
 
 #include "EditorModel.hpp"
+#include "CursorRight.hpp"
 
 
 

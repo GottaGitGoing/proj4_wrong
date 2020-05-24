@@ -8,6 +8,7 @@
 #include "InteractionProcessor.hpp"
 #include "EditorException.hpp"
 #include "Interaction.hpp"
+#include "Command.hpp"
 
 
 // This function implements command execution, but does not handle "undo"

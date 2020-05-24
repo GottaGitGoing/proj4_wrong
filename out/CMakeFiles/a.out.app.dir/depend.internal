@@ -5,12 +5,14 @@ CMakeFiles/a.out.app.dir/app/BooEdit.cpp.o
  /home/ics45c/projects/proj4/app/BooEdit.cpp
  /home/ics45c/projects/proj4/app/BooEdit.hpp
  /home/ics45c/projects/proj4/app/Command.hpp
+ /home/ics45c/projects/proj4/app/CursorRight.hpp
  /home/ics45c/projects/proj4/app/EditorModel.hpp
  /home/ics45c/projects/proj4/app/EditorView.hpp
  /home/ics45c/projects/proj4/app/Interaction.hpp
  /home/ics45c/projects/proj4/app/InteractionProcessor.hpp
  /home/ics45c/projects/proj4/app/InteractionReader.hpp
  /home/ics45c/projects/proj4/app/InteractionType.hpp
+ /home/ics45c/projects/proj4/app/Keypress.hpp
 CMakeFiles/a.out.app.dir/app/BooEditLog.cpp.o
  /home/ics45c/projects/proj4/app/BooEditLog.cpp
  /home/ics45c/projects/proj4/app/BooEditLog.hpp
@@ -26,6 +28,7 @@ CMakeFiles/a.out.app.dir/app/EditorModel.cpp.o
  /home/ics45c/projects/proj4/app/EditorModel.hpp
 CMakeFiles/a.out.app.dir/app/InteractionProcessor.cpp.o
  /home/ics45c/projects/proj4/app/Command.hpp
+ /home/ics45c/projects/proj4/app/CursorRight.hpp
  /home/ics45c/projects/proj4/app/EditorException.hpp
  /home/ics45c/projects/proj4/app/EditorModel.hpp
  /home/ics45c/projects/proj4/app/EditorView.hpp
@@ -34,8 +37,10 @@ CMakeFiles/a.out.app.dir/app/InteractionProcessor.cpp.o
  /home/ics45c/projects/proj4/app/InteractionProcessor.hpp
  /home/ics45c/projects/proj4/app/InteractionReader.hpp
  /home/ics45c/projects/proj4/app/InteractionType.hpp
+ /home/ics45c/projects/proj4/app/Keypress.hpp
 CMakeFiles/a.out.app.dir/app/KeypressInteractionReader.cpp.o
  /home/ics45c/projects/proj4/app/Command.hpp
+ /home/ics45c/projects/proj4/app/CursorRight.hpp
  /home/ics45c/projects/proj4/app/EditorModel.hpp
  /home/ics45c/projects/proj4/app/Interaction.hpp
  /home/ics45c/projects/proj4/app/InteractionReader.hpp
@@ -58,6 +63,7 @@ CMakeFiles/a.out.app.dir/app/main.cpp.o
  /home/ics45c/projects/proj4/app/BooEdit.hpp
  /home/ics45c/projects/proj4/app/BooEditLog.hpp
  /home/ics45c/projects/proj4/app/Command.hpp
+ /home/ics45c/projects/proj4/app/CursorRight.hpp
  /home/ics45c/projects/proj4/app/EditorModel.hpp
  /home/ics45c/projects/proj4/app/EditorView.hpp
  /home/ics45c/projects/proj4/app/Interaction.hpp

@@ -8,6 +8,7 @@
 // YOU WILL NEED TO IMPLEMENT SOME THINGS HERE
 
 #include "KeypressInteractionReader.hpp"
+#include "CursorRight.hpp"
 
 
 // You will need to update this member function to watch for the right
@@ -34,8 +35,8 @@ Interaction KeypressInteractionReader::nextInteraction()
             case 'X':
                 return Interaction::quit();
             
-            // case 'O':
-            //     return Interaction::command();
+            case 'O':
+                return Interaction::command(new CursorRight());
             
 
             }
